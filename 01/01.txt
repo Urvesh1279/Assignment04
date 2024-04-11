@@ -1,0 +1,25 @@
+Q1. What is MongoDB.
+
+-> MongoDB is a popular open-source, NoSQL database management system.
+-> It's designed to store and manage large volumes of data in a flexible and scalable manner. 
+-> MongoDB stores data in flexible, JSON-like documents, making it easy to work with for developers,
+   especially those working with JavaScript-based technologies.
+
+************************  features of MongoDB **********************************************
+
+* Document-Oriented: Data is stored in flexible, JSON-like documents, allowing for nested data
+                     structures and arrays.
+* Scalability: MongoDB is designed to scale out horizontally, meaning you can distribute data across
+               multiple servers or clusters to handle large amounts of traffic and data.
+* High Performance: MongoDB's architecture and features, such as indexing and sharding, enable high
+                    performance for both read and write operations.
+
+* Flexibility: MongoDB's schema-less design allows for easy adaptation to changing data structures
+               and requirements, making it suitable for agile development environments.
+
+* Replication and High Availability: MongoDB supports replica sets, allowing for automatic failover
+                                     and data redundancy, ensuring high availability and data 
+                                     durability.
+
+* Querying: MongoDB provides powerful querying capabilities, including support for ad-hoc queries,
+            indexing, aggregation pipelines, and geospatial queries.

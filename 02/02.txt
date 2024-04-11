@@ -1,0 +1,15 @@
+Q2 :- What is difference between mongo DB and SQL?
+
+SQL:-
+    Represents data as tables & rows
+    Must specify tables & columns
+    Allows Join operations
+    Utilizes structured query language
+    Best for cloud-based servises
+
+MongoDB:-
+    Represents data as JSON docs.
+    Don't need to declate the schema
+    Doen't allow join operations
+    Query language is JavaScript
+    Best data security is your priority
